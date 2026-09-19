@@ -1,0 +1,15 @@
+
+version=7
+
+client_key=sxBsGwQBahTxqiue
+telegram_id=37453409
+secret_key=weqR51go4q_Xj4LN
+
+is_recruitment=true
+
+user_agent=Nation: The_Banana_Moon, Contact: 413chk@gmail.com
+
+[recipients]
+tag:new
+
+[sent]
